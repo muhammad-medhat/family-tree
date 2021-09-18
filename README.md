@@ -1,7 +1,7 @@
 # A simple family tree visualizer
 
-[comment] ## Demo
-[comment] https://daveagp.github.io/family-tree/index.html
+[comment]: ## Demo
+[comment]: https://daveagp.github.io/family-tree/index.html
 
 ## How to use
 * Create `family.txt` for your family
